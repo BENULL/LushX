@@ -1,7 +1,7 @@
 # LushX
 A website for providing conveniences and happiness
 
-## transform to https://github.com/LushX
+## migration to https://github.com/LushX
 
 ##  环境
 - jdk1.8
